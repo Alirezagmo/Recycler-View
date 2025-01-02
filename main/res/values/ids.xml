@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="loginButton" type="id" />
+    <item name="loginStatus" type="id" />
+    <item name="recyler_view" type="id" />
+    <item name="recylerview" type="id" />
+</resources>
